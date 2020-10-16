@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     font-family: 'Gamja Flower', cursive; /* for the rest of the page */
 }
@@ -37,7 +42,7 @@ article p{
 
 #article-image{
   float: right;
-  margin:-5% 5px 0px 5px;
+  margin:-3% 5px 0px 5px;
 
 }
 
@@ -78,6 +83,7 @@ footer form p{
     color: white; 
     border-radius: 0px; 
     margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 /* Modal Styling start here */
